@@ -17,81 +17,81 @@ import {
 // PROJECT 1
 // =========================
 import proj1Banner from "../assets/projects/proj1/banner.png";
-import proj1_1 from "../assets/projects/proj1/1.png";
-import proj1_2 from "../assets/projects/proj1/2.png";
-import proj1_3 from "../assets/projects/proj1/3.png";
+import proj1_1 from "../assets/projects/proj1/1.PNG";
+import proj1_2 from "../assets/projects/proj1/2.PNG";
+import proj1_3 from "../assets/projects/proj1/3.PNG";
 
 // =========================
 // PROJECT 2
 // =========================
 import proj2Banner from "../assets/projects/proj2/banner.jpeg";
-import proj2_1 from "../assets/projects/proj2/1.png";
-import proj2_2 from "../assets/projects/proj2/2.png";
-import proj2_3 from "../assets/projects/proj2/3.png";
+import proj2_1 from "../assets/projects/proj2/1.PNG";
+import proj2_2 from "../assets/projects/proj2/2.PNG";
+import proj2_3 from "../assets/projects/proj2/3.PNG";
 
 // =========================
 // PROJECT 3
 // =========================
-import proj3Banner from "../assets/projects/proj3/banner.png";
-import proj3_1 from "../assets/projects/proj3/1.png";
-import proj3_2 from "../assets/projects/proj3/2.png";
-import proj3_3 from "../assets/projects/proj3/3.png";
+import proj3Banner from "../assets/projects/proj3/banner.PNG";
+import proj3_1 from "../assets/projects/proj3/1.PNG";
+import proj3_2 from "../assets/projects/proj3/2.PNG";
+import proj3_3 from "../assets/projects/proj3/3.PNG";
 
 // =========================
 // PROJECT 4
 // =========================
-import proj4Banner from "../assets/projects/proj4/banner.png";
-import proj4_1 from "../assets/projects/proj4/1.png";
-import proj4_2 from "../assets/projects/proj4/2.png";
-import proj4_3 from "../assets/projects/proj4/3.png";
+import proj4Banner from "../assets/projects/proj4/banner.PNG";
+import proj4_1 from "../assets/projects/proj4/1.PNG";
+import proj4_2 from "../assets/projects/proj4/2.PNG";
+import proj4_3 from "../assets/projects/proj4/3.PNG";
 
 // =========================
 // PROJECT 5
 // =========================
 import proj5Banner from "../assets/projects/proj5/banner.jpeg";
-import proj5_1 from "../assets/projects/proj5/1.png";
-import proj5_2 from "../assets/projects/proj5/2.png";
-import proj5_3 from "../assets/projects/proj5/3.png";
+import proj5_1 from "../assets/projects/proj5/1.PNG";
+import proj5_2 from "../assets/projects/proj5/2.PNG";
+import proj5_3 from "../assets/projects/proj5/3.PNG";
 
 // =========================
 // PROJECT 6
 // =========================
-import proj6Banner from "../assets/projects/proj6/banner.png";
-import proj6_1 from "../assets/projects/proj6/3.png";
-import proj6_2 from "../assets/projects/proj6/2.png";
-import proj6_3 from "../assets/projects/proj6/1.png";
+import proj6Banner from "../assets/projects/proj6/banner.PNG";
+import proj6_1 from "../assets/projects/proj6/3.PNG";
+import proj6_2 from "../assets/projects/proj6/2.PNG";
+import proj6_3 from "../assets/projects/proj6/1.PNG";
 
 // =========================
 // PROJECT 7
 // =========================
-import proj7Banner from "../assets/projects/proj7/banner.png";
-import proj7_1 from "../assets/projects/proj7/1.png";
-import proj7_2 from "../assets/projects/proj7/2.png";
-import proj7_3 from "../assets/projects/proj7/3.png";
+import proj7Banner from "../assets/projects/proj7/banner.PNG";
+import proj7_1 from "../assets/projects/proj7/1.PNG";
+import proj7_2 from "../assets/projects/proj7/2.PNG";
+import proj7_3 from "../assets/projects/proj7/3.PNG";
 
 // =========================
 // PROJECT 8
 // =========================
-import proj8Banner from "../assets/projects/proj8/banner.png";
-import proj8_1 from "../assets/projects/proj8/1.png";
-import proj8_2 from "../assets/projects/proj8/2.png";
-import proj8_3 from "../assets/projects/proj8/3.png";
+import proj8Banner from "../assets/projects/proj8/banner.PNG";
+import proj8_1 from "../assets/projects/proj8/1.PNG";
+import proj8_2 from "../assets/projects/proj8/2.PNG";
+import proj8_3 from "../assets/projects/proj8/3.PNG";
 
 // =========================
 // PROJECT 9
 // =========================
-import proj9Banner from "../assets/projects/proj1/banner.png";
-import proj9_1 from "../assets/projects/proj2/1.png";
-import proj9_2 from "../assets/projects/proj2/2.png";
-import proj9_3 from "../assets/projects/proj2/3.png";
+import proj9Banner from "../assets/projects/proj1/banner.PNG";
+import proj9_1 from "../assets/projects/proj2/1.PNG";
+import proj9_2 from "../assets/projects/proj2/2.PNG";
+import proj9_3 from "../assets/projects/proj2/3.PNG";
 
 // =========================
 // PROJECT 10
 // =========================
-import proj10Banner from "../assets/projects/proj1/banner.png";
-import proj10_1 from "../assets/projects/proj2/1.png";
-import proj10_2 from "../assets/projects/proj2/2.png";
-import proj10_3 from "../assets/projects/proj2/3.png";
+import proj10Banner from "../assets/projects/proj1/banner.PNG";
+import proj10_1 from "../assets/projects/proj2/1.PNG";
+import proj10_2 from "../assets/projects/proj2/2.PNG";
+import proj10_3 from "../assets/projects/proj2/3.PNG";
 
 const projectsData = [
 
