@@ -77,21 +77,6 @@ import proj8_1 from "../assets/projects/proj8/1.PNG";
 import proj8_2 from "../assets/projects/proj8/2.PNG";
 import proj8_3 from "../assets/projects/proj8/3.PNG";
 
-// =========================
-// PROJECT 9
-// =========================
-import proj9Banner from "../assets/projects/proj1/banner.PNG";
-import proj9_1 from "../assets/projects/proj2/1.PNG";
-import proj9_2 from "../assets/projects/proj2/2.PNG";
-import proj9_3 from "../assets/projects/proj2/3.PNG";
-
-// =========================
-// PROJECT 10
-// =========================
-import proj10Banner from "../assets/projects/proj1/banner.PNG";
-import proj10_1 from "../assets/projects/proj2/1.PNG";
-import proj10_2 from "../assets/projects/proj2/2.PNG";
-import proj10_3 from "../assets/projects/proj2/3.PNG";
 
 const projectsData = [
 
