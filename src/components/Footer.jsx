@@ -21,12 +21,12 @@ function Footer() {
   };
 
   return (
-    <footer className="relative overflow-hidden border-t border-white/10 bg-[#040714]">
-
+    <footer className="relative overflow-hidden border-t border-cyan-400/10 bg-[#02050f]">
+      <div className="absolute top-0 left-0 w-full h-24 bg-gradient-to-b from-cyan-500/5 to-transparent" />
       {/* BACKGROUND GLOW */}
       <div className="absolute top-0 left-1/2 -translate-x-1/2 w-[500px] h-[300px] bg-cyan-500/10 blur-[140px]" />
 
-      <div className="max-w-7xl mx-auto px-6 py-14 relative z-10">
+      <div className="max-w-7xl mx-auto px-6 py-20 relative z-10">
 
         {/* TOP SECTION */}
         <div className="flex flex-col lg:flex-row items-center justify-between gap-10 pb-10 border-b border-white/10">
@@ -60,13 +60,11 @@ function Footer() {
 
             </motion.h3>
 
-            <p className="text-gray-400 max-w-xl leading-relaxed text-sm md:text-base">
-
-              {language === "es"
-                ? "Desarrollo aplicaciones móviles, plataformas web y soluciones inteligentes enfocadas en arquitectura moderna, rendimiento y experiencias premium."
-                : "I develop mobile applications, web platforms and intelligent solutions focused on modern architecture, performance and premium experiences."}
-
-            </p>
+            <p className="text-gray-400/80 max-w-lg leading-relaxed text-sm md:text-base">
+  {language === "es"
+    ? "Tecnología, diseño y visión estratégica fusionados para construir productos digitales modernos."
+    : "Technology, design and strategic vision combined to build modern digital products."}
+</p>
 
           </div>
 
@@ -188,9 +186,9 @@ function Footer() {
         {/* </div> */}
 
         {/* BOTTOM */}
-        <div className="pt-6 border-t border-white/10 flex flex-col md:flex-row items-center justify-between gap-6">
+        <div className="pt-8 border-t border-white/10 flex flex-col items-center justify-center gap-6">
 
-          <p className="text-gray-500 text-sm text-center md:text-left">
+          <p className="text-gray-500 text-sm text-center leading-relaxed">
 
             © 2025 Brayan Rafael Condori Chambi.
 
@@ -211,7 +209,7 @@ function Footer() {
           {/* BACK TO TOP */}
           <button
             onClick={scrollTop}
-            className="group flex items-center gap-3 px-5 py-3 rounded-full bg-white/5 border border-white/10 hover:border-cyan-400 transition-all duration-300"
+            className="group flex items-center gap-3 mt-2 px-5 py-3 rounded-full bg-white/5 border border-white/10 hover:border-cyan-400 transition-all duration-300"
           >
 
             <span className="text-sm text-gray-300 group-hover:text-cyan-400 transition-all duration-300">
@@ -235,6 +233,7 @@ function Footer() {
       </div>
 
     </footer>
+    
   );
 }
 
