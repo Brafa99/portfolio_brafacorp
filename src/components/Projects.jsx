@@ -339,66 +339,66 @@ const projectsData = [
   // =========================
   // PROJECT 9
   // =========================
-  {
-    id: 9,
+  // {
+  //   id: 9,
 
-    title: "Fitness Tracking App",
+  //   title: "Fitness Tracking App",
 
-    category: "mobile",
+  //   category: "mobile",
 
-    status: "live",
+  //   status: "live",
 
-    description: {
-      es: "Aplicación fitness para seguimiento de entrenamientos, métricas físicas y progreso en tiempo real. (MUY PRONTO DISPONIBLE EN PLAYSTORE/APPSTORE)",
-      en: "Fitness application for workout tracking, physical metrics and real-time progress.",
-    },
+  //   description: {
+  //     es: "Aplicación fitness para seguimiento de entrenamientos, métricas físicas y progreso en tiempo real. (MUY PRONTO DISPONIBLE EN PLAYSTORE/APPSTORE)",
+  //     en: "Fitness application for workout tracking, physical metrics and real-time progress.",
+  //   },
 
-    stack: ["React Native", "Firebase", "Health API"],
+  //   stack: ["React Native", "Firebase", "Health API"],
 
-    banner: "/projects/proj9/banner.png",
+  //   banner: "/projects/proj9/banner.png",
 
-    images: [
-      "/projects/proj9/1.png",
-      "/projects/proj9/2.png",
-      "/projects/proj9/3.png",
-    ],
+  //   images: [
+  //     "/projects/proj9/1.png",
+  //     "/projects/proj9/2.png",
+  //     "/projects/proj9/3.png",
+  //   ],
 
-    link: "https://drive.google.com",
+  //   link: "https://drive.google.com",
 
-    icon: <FaMobileAlt />,
-  },
+  //   icon: <FaMobileAlt />,
+  // },
 
   // =========================
   // PROJECT 10
   // =========================
-  {
-    id: 10,
+  // {
+  //   id: 10,
 
-    title: "Smart Booking Platform",
+  //   title: "Smart Booking Platform",
 
-    category: "web",
+  //   category: "web",
 
-    status: "live",
+  //   status: "live",
 
-    description: {
-      es: "Sistema web moderno para reservas online, gestión de clientes y automatización de procesos.",
-      en: "Modern booking platform for online reservations and automated client management.",
-    },
+  //   description: {
+  //     es: "Sistema web moderno para reservas online, gestión de clientes y automatización de procesos.",
+  //     en: "Modern booking platform for online reservations and automated client management.",
+  //   },
 
-    stack: ["React", "Tailwind", "Firebase"],
+  //   stack: ["React", "Tailwind", "Firebase"],
 
-    banner: "/projects/proj10/banner.png",
+  //   banner: "/projects/proj10/banner.png",
 
-    images: [
-      "/projects/proj10/1.png",
-      "/projects/proj10/2.png",
-      "/projects/proj10/3.png",
-    ],
+  //   images: [
+  //     "/projects/proj10/1.png",
+  //     "/projects/proj10/2.png",
+  //     "/projects/proj10/3.png",
+  //   ],
 
-    link: "https://example.com",
+  //   link: "https://example.com",
 
-    icon: <FaGlobe />,
-  },
+  //   icon: <FaGlobe />,
+  // },
 
 ];
 
